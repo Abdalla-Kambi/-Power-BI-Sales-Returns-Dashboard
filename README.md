@@ -69,3 +69,9 @@ This project helped me strengthen my ability to:
 
 - `Power BI Assignment new.pbix` – Main dashboard file  
 - `README.md` – Project documentation
+
+---
+
+  ## 📸 Dashboard Overview
+
+![Dashboard Screenshot](./Screenshots/overview.png)
